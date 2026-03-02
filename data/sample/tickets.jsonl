@@ -1,0 +1,5 @@
+{"id":"TCK-001","title":"Refund request for cancelled booking","body":"Customer reports that their flight booking was cancelled and requests a refund. They ask about processing time and refund policy.","tags":["refund","policy"],"created_at":"2026-01-03"}
+{"id":"TCK-002","title":"Unable to reset password","body":"User cannot reset password. The reset email never arrives. They tried multiple times. They are using Gmail.","tags":["auth","email"],"created_at":"2026-01-04"}
+{"id":"TCK-003","title":"Duplicate charge on credit card","body":"Customer sees two charges for the same ticket purchase. Wants to verify if one is pending authorization.","tags":["billing","payments"],"created_at":"2026-01-05"}
+{"id":"TCK-004","title":"Seat selection not saved","body":"After selecting seats during checkout, the seat choices disappear on confirmation. Customer asks how to ensure seats are reserved.","tags":["booking","ux"],"created_at":"2026-01-06"}
+{"id":"TCK-005","title":"Change passenger name","body":"Customer entered the wrong passenger name and wants to update it. Asks about name change fees and limits.","tags":["booking","policy"],"created_at":"2026-01-07"}
